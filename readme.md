@@ -4,6 +4,8 @@ npm run dev
 postman
 http://localhost:8001/mens
 
+![image](https://user-images.githubusercontent.com/105534881/233648712-ae39ea8c-594b-43fb-a289-89c07b9dd3eb.png)
+
 to create folder 
 mkdir  folderName
 
